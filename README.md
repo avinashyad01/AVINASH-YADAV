@@ -7,8 +7,8 @@
 - 👋 Hi, I’m AVINASH YADAV
 
 - 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on [TIN-DOG]()
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on [Chat App - (Using ReactJS]
 - 📫 How to reach me **avinashyadav12072000@gmail.com**
 
 <!---
